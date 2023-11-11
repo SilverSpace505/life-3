@@ -15,8 +15,15 @@ canvas {
 
 h3 {
 	color: #000000;
+    font-size: 0;
 }
 
 h1 {
 	color: #000000;
+    font-size: 0;
+}
+
+p {
+	color: #000000;
+    font-size: 0;
 }
